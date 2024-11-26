@@ -1,0 +1,9 @@
+# VScode
+.vscode/
+
+# Images and info file
+plots/*.png
+plots/info.txt
+
+# Cache
+__pycache__/
